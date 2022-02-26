@@ -14,7 +14,7 @@ python bff-2.py
 <img src="https://github.com/Mark-Zuck/bff-/blob/main/__pycache__/IMG_20220224_151911.jpg" width="640" title="Menu" alt="Menu">
 
 #### Methode crack :
-• 01 Methode b-api (fast crack) <br>
+• 01 Methode touch (fast crack) <br>
 • 02 Methode mbasic (slow crack)<br>
 • 03 Methode mobile (very slow crack)<br>
 #
@@ -30,27 +30,19 @@ If you can't use this script or there is a bug in the script, please contact me
 
 #### Indonesia
 ````
-sayang,anjing,kontol,memek,bangsat,
-rahasia,indonesia,bismillah,pantek,
-123456,12345678,goblok,ganteng,cantik,
-cintaku,sayangku
+sayang,anjing,bangsat,rahasia,indonesia,bismillah,123456,12345678,goblok,ganteng,cantik,cintaku,sayangku
 ````
 #### Malaysia & Singapure
 ````
-malaysia,sayang,anjing,123456,12345678
-iloveyou,cintaku,sayangku,bismillah
-singapura,rahasia,password
+malaysia,sayang,anjing,123456,12345678,iloveyou,cintaku,sayangku,bismillah,singapura,rahasia,password
 ````
 #### Bangladesh
 ````
-bangladesh,102030,111222,112233,
-123456,12345678,100200,445566
+bangladesh,102030,111222,112233,123456,12345678,100200,445566
 ````
 #### India & pakistan
 ````
-pakistan,hindia,786786,111222,000786
-112233,pakistan786,123456,12345678,
-786000,786786786,445566
+pakistan,hindia,786786,111222,000786,112233,pakistan786,123456,12345678,786000,786786786,445566
 ````
 #### Usa
 ````
