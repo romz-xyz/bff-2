@@ -1,20 +1,15 @@
-#### Link download termux : https://f-droid.org/repo/com.termux_117.apk
-### Installation
+#### Link download termux : https://f-droid.org/repo/com.termux_117.apk jika sudah di download buka aplikasi nya, lalu ketikan perintah di bawah ini :
 ````
 pkg update && pkg upgrade -y
 pkg install python git -y
 pip install cython 
-````
-### Install git 
-````
 git clone https://github.com/Mark-Zuck/bff-2 
 ````
-### Run script
+Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````
 cd $HOME/bff-2 
 python bff-2.py 
 ````
-#
 #### Info Menu :<br>
 <img src="https://github.com/Mark-Zuck/bff-/blob/main/__pycache__/IMG_20220224_151911.jpg" width="640" title="Menu" alt="Menu">
 
