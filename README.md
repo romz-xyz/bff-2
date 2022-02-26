@@ -24,10 +24,12 @@ git clone https://github.com/Mark-Zuck/bff-2
 <img src="https://github.com/Mark-Zuck/bff-/blob/main/__pycache__/IMG_20220224_151911.jpg" width="640" title="Menu" alt="Menu">
 
 #### Methode crack :
-• 01 Methode touch (fast crack) <br>
+• 01 Methode free (fast crack) <br>
 • 02 Methode mbasic (slow crack)<br>
 • 03 Methode mobile (very slow crack)<br>
-#
+#### Hasil Crack
+<img src="https://github.com/Mark-Zuck/bff-2/blob/main/__pycache__/IMG_20220227_004824.jpg" width="640" title="Menu" alt="Menu">
+
 If you can't use this script or there is a bug in the script, please contact me
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.afrizal.102)
