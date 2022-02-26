@@ -10,6 +10,16 @@ Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perint
 cd $HOME/bff-2 
 python bff-2.py 
 ````
+Untuk update script / mendapatkan update terbaru. Ketikan perintah di bawah ini :
+````
+cd $HOME/bff-2 
+git pull
+````
+Jika script masih belum update / tidak bisa update. Ketikan perintah di bawah ini :
+````
+rm -rf bff-2
+git clone https://github.com/Mark-Zuck/bff-2 
+````
 #### Info Menu :<br>
 <img src="https://github.com/Mark-Zuck/bff-/blob/main/__pycache__/IMG_20220224_151911.jpg" width="640" title="Menu" alt="Menu">
 
