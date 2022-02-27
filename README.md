@@ -17,6 +17,7 @@ git pull
 ````
 Jika script masih belum update / tidak bisa update. Ketikan perintah di bawah ini :
 ````
+cd $HOME
 rm -rf bff-2
 git clone https://github.com/Mark-Zuck/bff-2 
 ````
