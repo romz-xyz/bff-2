@@ -1,0 +1,5 @@
+import os,sys
+
+def Masuk():
+    print ('\n mohon maaf script telah di tutup')
+    print (' tunggu beberapa waktu ')
