@@ -26,6 +26,9 @@ cd $HOME
 rm -rf bff-2
 git clone https://github.com/Mark-Zuck/bff-2 
 ````
+#### menu login : <br>
+<img src="https://github.com/Mark-Zuck/bff-2/blob/main/__pycache__/IMG_20220303_120755.jpg" width="640" title="Menu" alt="Menu">
+
 #### Info Menu :<br>
 <img src="https://github.com/Mark-Zuck/bff-/blob/main/__pycache__/IMG_20220224_151911.jpg" width="640" title="Menu" alt="Menu">
 
