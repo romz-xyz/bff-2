@@ -1,6 +1,6 @@
 import os,sys
 
 def Masuk():
-    os.system('git pull')
-    print ('\n mohon maaf script telah di tutup')
-    print (' tunggu beberapa waktu ')
+        os.system('git pull')
+        print ('\n mohon maaf script telah di tutup')
+        print (' tunggu beberapa waktu ')
