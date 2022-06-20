@@ -3,13 +3,9 @@
 pkg update && pkg upgrade -y
 pkg install python 
 pkg install git
-pip install cython 
+pip install cython
 git clone https://github.com/Mark-Zuck/bff-2 
 ````
-Perhatikan gambar berikut!
-<img src="https://github.com/Mark-Zuck/bff-2/blob/main/__pycache__/IMG_20220303_102017.jpg" width="640" title="Menu" alt="Menu">
-<img src="https://github.com/Mark-Zuck/bff-2/blob/main/__pycache__/IMG_20220303_101919.jpg" width="640" title="Menu" alt="Menu">
-
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
 cd $HOME/bff-2 
@@ -30,8 +26,6 @@ git clone https://github.com/Mark-Zuck/bff-2
 • 01 Methode free (fast crack) <br>
 • 02 Methode mbasic (slow crack)<br>
 • 03 Methode mobile (very slow crack)<br>
-#### Hasil Crack
-<img src="https://github.com/Mark-Zuck/bff-2/blob/main/__pycache__/IMG_20220227_004824.jpg" width="640" title="Menu" alt="Menu">
 
 If you can't use this script or there is a bug in the script, please contact me
 #### contact me
