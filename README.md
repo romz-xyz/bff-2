@@ -3,6 +3,7 @@
 pkg update && pkg upgrade -y
 pkg install python 
 pkg install git
+pkg install play-audio
 pip install cython
 git clone https://github.com/Mark-Zuck/bff-2 
 ````
