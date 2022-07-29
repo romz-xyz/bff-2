@@ -1,9 +1,8 @@
 #### Link download termux : https://f-droid.org/repo/com.termux_117.apk jika sudah di download buka aplikasi nya, lalu install dengan ketikan perintah di bawah ini :
 ````bash
-pkg update && pkg upgrade -y
+pkg update && pkg upgrade 
 pkg install python 
 pkg install git
-pkg install play-audio
 pip install cython
 git clone https://github.com/Mark-Zuck/bff-2 
 ````
