@@ -1,4 +1,5 @@
-#### Link download termux : https://f-droid.org/repo/com.termux_117.apk jika sudah di download buka aplikasi nya, lalu install dengan ketikan perintah di bawah ini :
+#### Link download termux : https://f-droid.org/repo/com.termux_117.apk 
+jika sudah di download buka aplikasi nya, lalu install dengan ketikan perintah di bawah ini :
 ````bash
 pkg update && pkg upgrade 
 pkg install python 
@@ -23,11 +24,10 @@ rm -rf bff-2
 git clone https://github.com/Mark-Zuck/bff-2 
 ````
 #### Methode crack :
-• 01 Methode free (fast crack) <br>
-• 02 Methode mbasic (slow crack)<br>
-• 03 Methode mobile (very slow crack)<br>
+• 01 Methode free (fast) <br>
+• 02 Methode mbasic (slow)<br>
+• 03 Methode mobile (very slow)<br>
 
-If you can't use this script or there is a bug in the script, please contact me
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.afrizal.102)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6281273018924?text=Asalamualaikum+bang)
