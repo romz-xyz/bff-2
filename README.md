@@ -3,8 +3,8 @@ jika sudah di download buka aplikasi nya, lalu install dengan ketikan perintah d
 ````bash
 pkg update && pkg upgrade 
 pkg install python 
-pkg install git
 pip install cython
+pkg install git
 git clone https://github.com/Mark-Zuck/bff-2 
 ````
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
