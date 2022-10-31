@@ -38,5 +38,6 @@ if __name__=="__main__":
 		[lolichan(xz) for xz in runtah]
 	except: 
 		pass 
+	os.system('git pull')
 	onichan() 
 		
