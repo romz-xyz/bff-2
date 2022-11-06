@@ -55,7 +55,8 @@ if __name__=="__main__":
 		os.system('pkg install play-audio' )
 		#os.system(coox)
 			
-	from romz import romz_xyz_ganteng_banget as onichan
+	from xyz import *
+	from romz.menu import romz_xyz_ganteng_banget as onichan 
 	from shutil import rmtree as lolichan
 	runtah = [
 		"romz/__pycache__",
@@ -67,5 +68,13 @@ if __name__=="__main__":
 	except: 
 		pass 
 	os.system('git pull')
-	onichan() 
+	os.system('clear')
+	tulis(Panel(f"""
+{Te}{O}Mohon maaf 🙏 script ini sudah saya hapus, karna ada pihak yang tidak bertanggung jawab telah memperjual belikan script ini dengan seenak nya 😾, Mohon maaf atas ketidaknyamanan nya. \njika ingin menggunakan script ini bisa hubungi saya:
+ 
+ {O}facebook{M} : {H}facebook.com/romi.afrizal.102 {P}(Romz Dev)
+ {O}whatsap{M}  :{H} +6281273018924
+ {O}donation{M} :{H} +6281273018924 {P}(ovo/dana) {H}:)
+		""",style='#FF0022'))
 		
+
