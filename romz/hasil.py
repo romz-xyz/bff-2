@@ -12,7 +12,7 @@ oke = []
 cepe = []
 
 #--- CEK HASIL FACEBOOK
-def hasil_fb(ENG):
+def hasil_fb():
 	tulis(Panel(f"{Te}{U} •{P} 01 {O}Cek hasil akun {H}OK \n{U} •{P} 02 {O}Cek hasil akun {K}CP \n{U} •{P} 03 {O}Hapus hasil crack \n{U} •{M} 00 {O}Kembali",style='#FF0022'))
 	rom = input('%s╰─%s Pilih %s>%s '%(p,o,m,k))
 	if rom in['']:
