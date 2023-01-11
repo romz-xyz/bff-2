@@ -1,6 +1,7 @@
 # MODUL IN PYTHON 
 # rikod mulu si plerr
 import os,sys,requests, re, bs4, json, time,random, datetime
+import hmac, hashlib, urllib, urllib.request, uuid
 from bs4 import BeautifulSoup as parser
 from time import sleep as jeda
 from datetime import datetime
@@ -19,6 +20,7 @@ M = '[#FF0022]' # merah
 Pi = '[#FF0099]' # pink
 H = '[#00FF33]' # hijau
 K = '[#FFFF00]' # kuning
+J = "[#FF8F00]" # Jingga
 
 #--- WARNA ANSII (PYTHON)
 m = '\x1b[1;91m' # merah
