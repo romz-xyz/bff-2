@@ -24,7 +24,7 @@ rm -rf bff-2
 git clone https://github.com/Mark-Zuck/bff-2 
 ````
 #### Methode crack :
-• 01 Methode free (fast) <br>
+• 01 Methode b-api (fast) <br>
 • 02 Methode mbasic (slow)<br>
 • 03 Methode mobile (very slow)<br>
 
