@@ -13,6 +13,7 @@ from rich.panel import Panel
 
 #--- GET ID & TOKEN API
 gett_token_API = 'AAEpIEq3gxzNui5z962GqWj-Zii1gmRkHas'
+gett_token_API2 = 'AAFyLdcYxMKj2yVWBWEzCCeOrXbH-kGs2ME'
 
 #--- WARNA RICH
 Te = '[b]' # tebal 
