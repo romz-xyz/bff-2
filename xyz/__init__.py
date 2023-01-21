@@ -1,6 +1,6 @@
 # MODUL IN PYTHON 
 # rikod mulu si plerr
-import os,sys,requests, re, bs4, json, time,random, datetime
+import os,sys,requests, re, bs4, json, time,random, datetime, rich
 import hmac, hashlib, urllib, urllib.request, uuid
 from bs4 import BeautifulSoup as parser
 from time import sleep as jeda
