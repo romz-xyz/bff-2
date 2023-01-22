@@ -45,7 +45,7 @@ def hasil_fb():
 			tulis(Panel(f"{Te}{U} •{O} hasil tanggal{M} : {H}{file_nm} {O}total {M}: {H}{len(totalok)}",style='#FF0022'))
 			for ngontol in totalok:
 				kontol = ngontol.replace("\n","")
-				pukimek = kontol.replace(" *--> ","\x1b[1;97m╰───\x1b[1;92m ")
+				pukimek = kontol.replace(" *--> ",f"\x1b[1;97m╰──\x1b[1;92m ")
 				print('%s'%(pukimek));jeda(0.07)
 			print ('')
 			exit()
@@ -76,7 +76,7 @@ def hasil_fb():
 			tulis(Panel(f"{Te}{U} •{O} hasil tanggal{M} : {K}{file_nm} {O}total {M}: {K}{len(totalcp)}",style='#FF0022'))
 			for ngontol in totalcp:
 				kontol = ngontol.replace("\n","")
-				pukimek = kontol.replace(" *--> ","\x1b[1;97m╰───\x1b[1;93m ")
+				pukimek = kontol.replace(" *--> ","\x1b[1;97m╰──\x1b[1;93m ")
 				print('%s'%(pukimek));jeda(0.07)
 			print ('')
 			exit()
