@@ -19,27 +19,27 @@ if __name__=="__main__":
 		import requests 
 	except ImportError:
 		print ('\n\t\x1b[0m $ install module requests ...\n')
-		os.system("python -m pip install --upgrade pip && pip install requests")
+		os.system("pip install requests")
 	try:
 		import bs4 
 	except ImportError:
 		print ('\n\t\x1b[0m $ install module bs4 ...\n')
-		os.system("python -m pip install --upgrade pip && pip install bs4")
+		os.system("pip && pip install bs4")
 	try:
 		import mechanize 
 	except ImportError:
 		print ('\n\t\x1b[0m $ install module mechanize ...\n')
-		os.system("python -m pip install --upgrade pip && pip install mechanize")
+		os.system("pip install mechanize")
 	try:
 		import concurrent.futures 
 	except ImportError:
 		print ('\n\t\x1b[0m $ install module futures ...\n')
-		os.system("python -m pip install --upgrade pip && pip install futures")
+		os.system("pip install futures")
 	try:
 		import rich 
 	except ImportError:
 		print ('\n\t\x1b[0m $ install module rich ...\n')
-		os.system("python -m pip install --upgrade pip && pip install rich")
+		os.system("pip install rich")
 		
 	try: # music mp3
 		bff_2 = open(os.devnull, "w")
