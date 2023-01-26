@@ -63,4 +63,4 @@ if __name__=="__main__":
 	except: 
 		pass 
 	os.system('git pull')
-	onichan() 
+	onichan();exit()
