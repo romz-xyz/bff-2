@@ -17,27 +17,27 @@ if __name__=="__main__":
 		
 	try: # install module
 		import requests 
-	except ImportError:
+	except (ImportError,ModuleNotFoundError):
 		print ('\n\t\x1b[0m $ install module requests ...\n')
 		os.system("pip install requests")
 	try:
 		import bs4 
-	except ImportError:
+	except (ImportError,ModuleNotFoundError):
 		print ('\n\t\x1b[0m $ install module bs4 ...\n')
-		os.system("pip && pip install bs4")
+		os.system("pip install bs4")
 	try:
 		import mechanize 
-	except ImportError:
+	except (ImportError,ModuleNotFoundError):
 		print ('\n\t\x1b[0m $ install module mechanize ...\n')
 		os.system("pip install mechanize")
 	try:
 		import concurrent.futures 
-	except ImportError:
+	except (ImportError,ModuleNotFoundError):
 		print ('\n\t\x1b[0m $ install module futures ...\n')
 		os.system("pip install futures")
 	try:
 		import rich 
-	except ImportError:
+	except (ImportError,ModuleNotFoundError):
 		print ('\n\t\x1b[0m $ install module rich ...\n')
 		os.system("pip install rich")
 		
@@ -63,4 +63,4 @@ if __name__=="__main__":
 	except: 
 		pass 
 	os.system('git pull')
-	onichan();exit()
+	onichan() 
