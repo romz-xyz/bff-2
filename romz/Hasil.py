@@ -1,7 +1,7 @@
-#     *Brute Force Facebook (BFF)²
-#     *file name: hasil.py
-#     *copyright: (C) © 2022 ~ Romi Afrizal
-#     *contact me on whatsap: +6281273018924
+#     *Brute Force Facebook (BFFV2)²
+#     *file name: Hasil.py
+#     *copyright: (C) © 2022 ~ CLAOUPY4
+#     *contact me on whatsap: 085759162117
 
 from xyz import *
 from time import sleep as jeda
