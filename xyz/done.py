@@ -1,4 +1,4 @@
-# coding by Romi Afrizal
+# coding by CLAOUPY5
 from xyz import *
 from xyz import detect as deteck
 
@@ -44,7 +44,7 @@ def hasil(ok,cp):
 					pass
 			tulis(Panel(f"{Te}{U} •{O} Selesai mengecek akun",style='#FF0022'))
 			input('%s╰─%s [%s Enter%s ] '%(p,o,u,o))
-			os.system("python bff-2.py")
+			os.system("python BFF-2.py")
 		elif c in['t','T']:
 			exit()
 		else:
