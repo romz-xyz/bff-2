@@ -17,7 +17,7 @@ def hasil_fb():
 	rom = input('%s╰─%s Pilih %s>%s '%(p,o,m,k))
 	if rom in['']:
 		print ('%s╰─%s isi yang benar'%(p,m));jeda(2)
-		os.system("python bff-2.py")
+		os.system("python BFF-2.py")
 	elif rom in['1','01']: 
 		try:
 			dirs = os.listdir('OK')
@@ -84,12 +84,12 @@ def hasil_fb():
 		os.system('rm -rf CP/*.txt && rm -rf OK/*.txt');print('')
 		ld().loads()
 		jalan (f'{m} berhasil menghapus hasil crack ');jeda(2)
-		os.system("python bff-2.py")
+		os.system("python BFF-2.py")
 	elif rom in['0','00']:
-		os.system("python bff-2.py")
+		os.system("python BFF-2.py")
 	else:
 		print ('\n%s╰─%s isi yang benar kentod'%(p,m));jeda(2)
-		os.system("python bff-2.py")
+		os.system("python BFF-2.py")
 
 #--- JALAN
 def jalan(keliling):
