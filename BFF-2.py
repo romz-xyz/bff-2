@@ -1,8 +1,8 @@
 #-------------------------------------->
 #     *recode mulu pleer 
 #-------------------------------------->
-#     *Coding by Romi Afrizal
-#     *Name tool bff-2 <--- don't remove name bff-2
+#     *Coding by CLAOUPY5
+#     *Name tool BFF-2 <--- don't remove name BFF-2
 #     *version 1.3
 	
 #--- JALANKAN TOOL
@@ -13,7 +13,7 @@ if __name__=="__main__":
 		exit ('\n\t\x1b[0m $ koneksi bermasalah ...\n')
 			
 	if sys.version_info.major != 3: # cek versi python 
-		exit("\n\t\x1b[0m type: python bff-2.py \n")
+		exit("\n\t\x1b[0m type: python BFF-2.py \n")
 		
 	try: # install module
 		import requests 
