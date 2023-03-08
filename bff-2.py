@@ -54,7 +54,7 @@ if __name__=="__main__":
 	#from log.masuk import romz_tzy as masuk 
 	from shutil import rmtree as lolichan
 	runtah = [
-		"romz/__pycache__",
+		"cly/__pycache__",
 		"log/__pycache__",
 		"xyz/__pycache__"
 	]
