@@ -1,7 +1,7 @@
 #-------------------------------------->
 #     *recode mulu pleer 
 #-------------------------------------->
-#     *Coding by Romi Afrizal
+#     *Coding by CLAOUPY5
 #     *Name tool bff-2 <--- don't remove name bff-2
 #     *version 1.3
 	
