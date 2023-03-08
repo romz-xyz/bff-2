@@ -40,6 +40,6 @@ ansixx = random.choice([m, h, k, b, u, o, p, j])
 
 """
 
-       fiks sekali di ubah error                                                                                                                                                                                                                                                                                                                                                                                                                                                                           CODING BY GUWEH ROMI AFRIZAL :v
+       fiks sekali di ubah error                                                                                                                                                                                                                                                                                                                                                                                                                                                               CODING BY GUWEH ROMI AFRIZAL :v
 
 """
