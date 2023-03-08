@@ -13,7 +13,7 @@ if __name__=="__main__":
 		exit ('\n\t\x1b[0m $ koneksi bermasalah ...\n')
 			
 	if sys.version_info.major != 3: # cek versi python 
-		exit("\n\t\x1b[0m type: python bff-2.py \n")
+		exit("\n\t\x1b[0m type: python BFF-2.py \n")
 		
 	try: # install module
 		import requests 
