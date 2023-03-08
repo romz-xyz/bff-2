@@ -5,23 +5,23 @@ pkg update && pkg upgrade
 pkg install python 
 pip install cython
 pkg install git
-git clone https://github.com/Mark-Zuck/bff-2 
+git clone https://github.com/CLAOUPY5/BFF-2 
 ````
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
-cd $HOME/bff-2 
-python bff-2.py 
+cd $HOME/BFF-2.py
+python BFF-2-2.py 
 ````
 Untuk update script / mendapatkan update terbaru. Ketikan perintah di bawah ini :
 ````
-cd $HOME/bff-2 
+cd $HOME/BFF-2.py-p
 git pull
 ````
 Jika script masih belum update / tidak bisa update. Ketikan perintah di bawah ini :
 ````
 cd $HOME
-rm -rf bff-2
-git clone https://github.com/Mark-Zuck/bff-2 
+rm -rf BFF-2.py
+git clone https://github.com/CLAOUPY5/BFF-2 
 ````
 #### Methode crack :
 • 01 Methode b-api (fast) <br>
