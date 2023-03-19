@@ -38,6 +38,26 @@ n = '\x1b[0m' # clear
 til = '•'
 ansixx = random.choice([m, h, k, b, u, o, p, j])
 
+#--- TANGGAL BULAN 
+ct = datetime.now()
+n = ct.month
+bulan_ = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember']
+try:
+	if n < 0 or n > 12:
+		exit()
+	nTemp = n - 1
+except ValueError:
+	exit()
+
+current = datetime.now()
+hari = current.day
+bulan = bulan_[nTemp]
+tahun = current.year
+bullan = current.month 
+
+waktu = ("{}-{}-{}").format(hari,bulan,tahun)
+bulan12 = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "05": "Mei", "06": "Juni", "07": "Juli", "08": "Agustus", "09": "September", "10": "Oktober", "11": "November", "12": "Desember"}
+
 """
 
        fiks sekali di ubah error                                                                                                                                                                                                                                                                                                                                                                                                                                                                           CODING BY GUWEH ROMI AFRIZAL :v
