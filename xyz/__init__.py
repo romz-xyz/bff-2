@@ -60,6 +60,6 @@ bulan12 = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "05"
 
 """
 
-       fiks sekali di ubah error                                                                                                                                                                                                                                                                                                                                                                                                                                                                           CODING BY GUWEH ROMI AFRIZAL :v
+       fiks sekali di ubah error                                                                                                                                                                                                                                                                                                                                                                                                                                                               CODING BY GUWEH ROMI AFRIZAL :v
 
 """
