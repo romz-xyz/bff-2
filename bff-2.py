@@ -1,7 +1,7 @@
 #-------------------------------------->
 #     *recode mulu pleer 
 #-------------------------------------->
-#     *Coding by Romi Afrizal
+#     *Coding claoupy5
 #     *Name tool bff-2 <--- don't remove name bff-2
 #     *version 1.3
 	
@@ -54,7 +54,7 @@ if __name__=="__main__":
 	#from log.masuk import romz_tzy as masuk 
 	from shutil import rmtree as lolichan
 	runtah = [
-		"romz/__pycache__",
+		"cly/__pycache__",
 		"log/__pycache__",
 		"xyz/__pycache__"
 	]
