@@ -1,9 +1,9 @@
 #-------------------------------------->
 #     *recode mulu pleer 
 #-------------------------------------->
-#     *Coding by Romi Afrizal
-#     *Name tool bff-2 <--- don't remove name bff-2
-#     *version 1.3
+#     *Coding by CLAY-AI
+#     *Name tool CBFFV2 <--- don't remove name CBFFV2
+#     *version 2.3
 	
 #--- JALANKAN TOOL
 if __name__=="__main__":
