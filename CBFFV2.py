@@ -1,7 +1,7 @@
 #-------------------------------------->
 #     *recode mulu pleer 
 #-------------------------------------->
-#     *Coding by Romi Afrizal
+#     *Coding by clay
 #     *Name tool bff-2 <--- don't remove name bff-2
 #     *version 1.3
 	
@@ -13,7 +13,7 @@ if __name__=="__main__":
 		exit ('\n\t\x1b[0m $ koneksi bermasalah ...\n')
 			
 	if sys.version_info.major != 3: # cek versi python 
-		exit("\n\t\x1b[0m type: python bff-2.py \n")
+		exit("\n\t\x1b[0m type: python CBFFV2.py \n")
 		
 	try: # install module
 		import requests 
@@ -50,11 +50,11 @@ if __name__=="__main__":
 	except FileNotFoundError:
 		os.system('pkg install play-audio' )
 			
-	from romz.menu import romz_xyz_ganteng_banget as onichan 
-	#from log.masuk import romz_tzy as masuk 
+	from clays.menu import clays_xyz_ganteng_banget as onichan 
+	#from log.masuk import clays_tzy as masuk 
 	from shutil import rmtree as lolichan
 	runtah = [
-		"romz/__pycache__",
+		"clays/__pycache__",
 		"log/__pycache__",
 		"xyz/__pycache__"
 	]
