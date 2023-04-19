@@ -5,7 +5,7 @@ pkg update && pkg upgrade
 pkg install python 
 pip install cython
 pkg install git
-git clone https://github.com/Mark-Zuck/bff-2 
+git clone https://github.com/romz-xyz/bff-2 
 ````
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
@@ -21,7 +21,7 @@ Jika script masih belum update / tidak bisa update. Ketikan perintah di bawah in
 ````
 cd $HOME
 rm -rf bff-2
-git clone https://github.com/Mark-Zuck/bff-2 
+git clone https://github.com/romz-xyz/bff-2 
 ````
 #### Methode crack :
 • 01 Methode b-api (fast) <br>
